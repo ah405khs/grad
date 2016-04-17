@@ -6,4 +6,7 @@ public class grader {
 	public void set(){
 		init = 3;
 	}
+	public void apple(){
+		System.out.println("this is apple");
+	}
 }
