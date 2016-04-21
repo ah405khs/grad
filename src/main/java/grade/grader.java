@@ -13,6 +13,6 @@ public class grader {
 		
 	}
 	public void ad(){
-		
+		System.out.println("s");
 	}
 }
