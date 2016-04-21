@@ -9,4 +9,10 @@ public class grader {
 	public void apple(){
 		System.out.println("this is apple");
 	}
+	public void love(){
+		
+	}
+	public void ad(){
+		
+	}
 }
